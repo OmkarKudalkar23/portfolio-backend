@@ -4,11 +4,11 @@ import bodyParser from "body-parser";
 import { generateDSAAnswer } from "./dsa.js"; // your Gemini code
 
 const app = express();
-const PORT = 3000; // or any port you prefer
+const PORT = process.env.PORT || 3000;
 
 // Middleware
 app.use(cors({
-  origin:[ "http://localhost:5173","https://portfolio-backend-sovq.onrender.com" ]// replace with your React frontend URL
+  origin:[ "http://localhost:5173","https://portfolio-frontend-six-tawny.vercel.app" ]// replace with your React frontend URL
 }));
 app.use(bodyParser.json());
 
