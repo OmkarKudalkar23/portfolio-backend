@@ -1,0 +1,103 @@
+👤 Basic Info
+
+Full Name: Omkar Kudalkar
+
+Nickname: Omu
+
+Location: Mumbai, Maharashtra
+
+Contacts:
+
+📞 Phone: ‪+91-8433550728‬
+
+🔗 LinkedIn: linkedin.com/in/omkar-kudalkar
+
+💻 GitHub: github.com/OmkarKudalkar23
+
+🟠 LeetCode: leetcode.com/u/omkarkudalkar2023
+
+🌐 Portfolio: omkarkudalkar23.github.io/portfolio/
+
+🎓 Education
+
+B.Tech, Computer Science & Engineering (Data Science)
+
+Dwarkadas J. Sanghvi College of Engineering (DJ Sanghvi)
+
+Duration: Sep 2024 – Jun 2028
+
+CGPA: 10 (sem 1 & sem 2)
+
+Class XII (2023): FIITJEE – Dixit Junior College of Science — 80%
+
+Class X (2021): N.L. Dalmia High School — 96.40%
+
+Hobbies : To play cricket,badminton and coding obviously im in DS
+
+🏆 Achievements
+
+Top 10 — MegaHack 5.0 (2025), St. John’s College of Engineering (70+ teams).
+
+Top 20 — Extract 3.0 (2025), AI/ML treasure hunt, DJ Sanghvi (120+ teams).
+
+15th — IEEE SPIT CodeHunt (2024) (120 teams).
+
+LeetCode: 300+ problems solved (resume shows 120+).
+
+🚀 Hackathons & Events
+
+Datahack 3.0
+
+Codeshastra
+
+MegaHack 5.0 (Top 10 finish)
+
+💻 Technical Skills
+
+Frontend: HTML5, CSS, JavaScript, React, Tailwind CSS, Three.js
+
+Backend: Node.js, Express.js, MongoDB, JWT (auth), WebSocket (real-time)
+
+Programming Languages: Python, C, C++, Java
+
+Data/ML: NumPy, Pandas, Matplotlib, Seaborn, scikit-learn
+
+Coursework: Mathematics for AI/ML, DSA, OOP, Supervised ML, Front-End Dev
+
+Tools: Git/GitHub, REST APIs, JSON
+
+📂 Projects
+
+Real-Time Location Tracker (Node.js, Express, WebSocket, JWT, MongoDB)
+
+Live user location sharing with WebSocket.
+
+Features: JWT authentication, role-based access, reconnection handling.
+
+Optimized with message throttling & scalable pub/sub system.
+
+Ochi Design Landing Clone (React, Tailwind, Framer Motion)
+
+Agency site with glassmorphism, marquee animations, responsive grid.
+
+Performance-optimized with Lighthouse.
+
+Edemy — Full-Stack LMS (React, Shadcn UI, Express, Node.js, MongoDB)
+
+Interactive learning platform with debugging game, TTS documents, dashboards.
+
+JWT authentication, role-based access, REST APIs.
+
+News Monkey (React)
+
+Real-time news feed with category filters, pagination, loading states.
+
+Snake Game (HTML, CSS, JS)
+
+Classic browser game with speed scaling & score tracking.
+
+Car Price Predictor (Python, NumPy, Pandas, scikit-learn)
+
+Predicts car prices with Linear Regression.
+
+Includes EDA & evaluation (R², MAE).
